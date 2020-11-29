@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DataStoreSample</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_2">Button 2</string>
+    <string name="button_3">Button 3</string>
+    <string name="button_4">Button 4</string>
+    <string name="move_to_proto_data_store">Move to Proto Data Store</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="enter_department_name">Enter Department Name</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="move_to_fragment_flow">Move to Fragment Flow</string>
+    <string name="open_another_fragment">Open Another Fragment</string>
+    <string name="update_user_model">Update User Model</string>
+    <string name="update_even_counter">Update Even Counter</string>
+    <string name="update_odd_counter">Update Odd Counter</string>
+    <string name="update_dummy_user_model">Update Dummy User Model</string>
+</resources>
